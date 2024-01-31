@@ -6,15 +6,15 @@ It's our great hornor to get you attention to our work ComProtein. Due to the op
 # Closely Related Generation
 |  |  |  |  |
 |---|---|---|---|
-| ![alt text](images/C1.png "Title1")   | ![alt text](images/C2.png "Title2") | ![alt text](images/C3.png "Title3")   | ![alt text](images/C4.png "Title4") |
+| ![alt text](images/C1.png "Domain A - A")   | ![alt text](images/C2.png "Domain A - B") | ![alt text](images/C3.png "Domain B - A")   | ![alt text](images/C4.png "Domain B - B") |
 | (a) Domain A - A   | (b) Domain A - B | (c) Domain B - A   | (d) Domain B - B |
-| ![alt text](images/C5.png "Title5")  | ![alt text](images/C6.png "Title6")  | ![alt text](images/C7.png "Title7") | ![alt text](images/C8.png "Title8") |
+| ![alt text](images/C5.png "Generated - A")  | ![alt text](images/C6.png "Generated - B")  | ![alt text](images/C7.png "Generated - C") | ![alt text](images/C8.png "Generated - D") |
 | (a) Generated - A   | (b) Generated - B | (c) Generated - C   | (d) Generated - D |
 
 # Distantly Related Generation
 |  |  |  |  |
 |---|---|---|---|
-| ![alt text](images/D1.png "Title1")   | ![alt text](images/D2.png "Title2") | ![alt text](images/D3.png "Title3")   | ![alt text](images/D4.png "Title4") |
+| ![alt text](images/D1.png "Domain A - A")   | ![alt text](images/D2.png "Domain A - B") | ![alt text](images/D3.png "Domain B - A")   | ![alt text](images/D4.png "Domain B - B") |
 | (a) Domain A - A   | (b) Domain A - B | (c) Domain B - A   | (d) Domain B - B |
-| ![alt text](images/D5.png "Title5")  | ![alt text](images/D6.png "Title6")  | ![alt text](images/D7.png "Title7") | ![alt text](images/D8.png "Title8") |
+| ![alt text](images/D5.png "Generated - A")  | ![alt text](images/D6.png "Generated - B")  | ![alt text](images/D7.png "Generated - C") | ![alt text](images/D8.png "Generated - D") |
 | (a) Generated - A   | (b) Generated - B | (c) Generated - C   | (d) Generated - D |
